@@ -337,9 +337,10 @@ form textarea.form-control {
 
 #navigation p {
   color: #fff;
-  font-size: 1.3em;
+  font-size: 1em;
   opacity: .7;
   font-family: "Playfair Display", Georgia, serif;
+  letter-spacing: .7px;
 }
 
 ul.menu, ul.menu-small {
